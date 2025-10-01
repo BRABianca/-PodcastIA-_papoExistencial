@@ -29,12 +29,13 @@ O primeiro episódio é baseado no livro **"A Sabedoria da Insegurança"** de Al
 
 ### Título
 **"Por que a gente sofre querendo controlar tudo? (Spoiler: não dá)"**
+youtube: https://www.youtube.com/watch?v=6PInRQ9GObU
 
 ### Sinopse
 Exploramos por que tentamos controlar cada aspecto das nossas vidas e como essa busca por segurança absoluta paradoxalmente aumenta nossa ansiedade. Com base nas ideias de Alan Watts, o episódio convida o ouvinte a repensar sua relação com a incerteza.
 
 ### Duração
-25-35 minutos
+5 - 10 minutos
 
 ### Estrutura
 1. **Abertura** - Gancho inicial conectando com experiências do ouvinte
