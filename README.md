@@ -73,23 +73,15 @@ projeto-podcast/
 ├── README.md                          # Este arquivo
 ├── documentacao/
 │   ├── prompt-roteiro-manus.md       # Prompt completo para Manus
-│   ├── prompt-imagem-gemini.md       # Prompt completo para Gemini
-│   └── conceito-podcast.md           # Conceito e identidade do projeto
+│   └── prompt-imagem-gemini.md       # Prompt completo para Gemini
 │
 ├── episodio-01/
 │   ├── roteiro-completo.md           # Roteiro gerado pelo Manus
 │   ├── audio-narrado.mp3             # Áudio gerado pelo ElevenLabs
 │   └── audio-final-editado.mp3       # Áudio final com trilha e efeitos
 │
-├── identidade-visual/
-│   ├── capa-podcast.png              # Capa principal (3000x3000px)
-│   ├── capa-episodio-01.png          # Capa específica do episódio
-│   └── paleta-cores.png              # Paleta de cores do projeto
-│
-└── referencias/
-    ├── livro-alan-watts.pdf          # Material de referência
-    └── analise-ludoviajante.md       # Análise do canal inspirador
-```
+└── identidade-visual/
+│   └── capa-podcast.png              # Capa principal (3000x3000px)
 
 ---
 
